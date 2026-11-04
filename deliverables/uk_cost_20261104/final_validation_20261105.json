@@ -1,0 +1,10 @@
+{
+  "skus": 96,
+  "remaining_units": 15041,
+  "formula_cells_recalculated": 960,
+  "formula_sensitivity": "passed; disposable arrival quantity +1, cost/head denominators follow",
+  "original_history": "unchanged",
+  "financial_amounts": "unchanged; negative remaining unit cost now visible",
+  "exception_rows": 8,
+  "head_comparison_33": "notes only; no added adjustment"
+}
