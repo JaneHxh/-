@@ -1,0 +1,83 @@
+[
+  {
+    "ASIN": "B0DX23K4NK",
+    "SKU": "AMZN7010238",
+    "old_stage": "热销",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0FV59R2XL",
+    "SKU": "AMZN71010241",
+    "old_stage": "清货1/3库存",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0DX23SWST",
+    "SKU": "AMZN7010239",
+    "old_stage": "清货1/3库存",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0FV3L7G24",
+    "SKU": "AMZN7010242",
+    "old_stage": "清货1/3库存",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0CYC8L9SC",
+    "SKU": "AMZN7010180",
+    "old_stage": "维护",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B071W3Q78W",
+    "SKU": "AMZN4040100",
+    "old_stage": "热销",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0DLJWVBW9",
+    "SKU": "AMZN7010173",
+    "old_stage": "清货1/3库存",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0D61ZQRXF",
+    "SKU": "AMZN7010168",
+    "old_stage": "清货1/3库存",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  },
+  {
+    "ASIN": "B0DX261K3G",
+    "SKU": "AMZN7010240",
+    "old_stage": "清货1/3库存",
+    "November_stage": "已申请清货",
+    "effective_snapshot": "2026-11-06",
+    "source": "本文件11月清货方案；用户11月周期同步要求",
+    "scope": "UK child ASIN; all mapped SKUs; no parent/other-site expansion"
+  }
+]

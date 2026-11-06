@@ -1,0 +1,71 @@
+{
+  "updated_ASIN_count": 9,
+  "stage_occurrences_checked": 97,
+  "category_totals": {
+    "已申请清货": [
+      5741.7300000000005,
+      212.0,
+      206.0,
+      22.0,
+      4921.0
+    ],
+    "热销": [
+      2539.2400000000002,
+      128.0,
+      128.0,
+      5.0,
+      956.0
+    ],
+    "维护": [
+      4440.109999999999,
+      98.0,
+      98.0,
+      14.0,
+      1635.0
+    ],
+    "清货": [
+      1131.7,
+      40.0,
+      39.0,
+      9.0,
+      321.0
+    ],
+    "新品": [
+      855.87,
+      13.0,
+      12.0,
+      6.0,
+      360.0
+    ],
+    "待分类": [
+      12.99,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "未标注": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "清货1/3库存": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "profit_GBP": 142.44792082770917,
+  "fixed_clearance_count": 20,
+  "fixed_clearance_baseline": 2099,
+  "normal_turnover_over16": 10,
+  "clearance_turnover_over16": 11,
+  "recalculated_formula_count": 1432,
+  "preserved_formula_cache_count": 10197,
+  "financial_values": "unchanged",
+  "formula_errors": 0
+}
