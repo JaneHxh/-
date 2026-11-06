@@ -1,0 +1,26 @@
+{
+  "units": 492,
+  "sales": 14721.639999999996,
+  "SP": 709.9999999999999,
+  "known_contribution_GBP": 142.44792082770954,
+  "incomplete": [],
+  "B0FW43F74D": {
+    "ASIN": "B0FW43F74D",
+    "qty": 6,
+    "sales": 549.96,
+    "goods_GBP": 30.34726639615529,
+    "SP": 54.49,
+    "profit": 32.90713418650609,
+    "known_contribution": 32.90713418650609
+  },
+  "new_formula_count": 4444,
+  "preserved_cached_count": 7040,
+  "mode": "All current sold-product estimated profits complete; user-confirmed model, not actual ledger profit",
+  "sensitivity": {
+    "USD_cost_plus_1": "AE22 decreases by 6*6.73/8.91",
+    "SP_plus_1": "AE22 decreases by exactly1GBP; spend not counted twice",
+    "blank_fees_filled": "disposable B0919BG2SL cost/FBA/storage inputs restore numeric profit correctly",
+    "clearance_without_baseline": "text status, no division error",
+    "production_test_values": "not written to delivered file"
+  }
+}
