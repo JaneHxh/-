@@ -1,0 +1,16 @@
+{
+  "source": "日本站周报_2026-11-03.xlsx",
+  "original_unchanged": true,
+  "original_formula_count": 3347,
+  "circular_groups": 5,
+  "schema_errors": 14,
+  "current_excel_errors": 6,
+  "diagnostic_formula_errors": 0,
+  "full_scope_model_profit_reference_JPY": 11186.066627492648,
+  "mode": "audit only; diagnosis does not replace source workbook",
+  "raw_sales_units_SP": {
+    "sales": 939315,
+    "units": 185,
+    "SP": 47726.68
+  }
+}
