@@ -1,0 +1,31 @@
+{
+  "financial_and_formula_checks": {
+    "sales_JPY": 939315,
+    "units": 185,
+    "SP_JPY": 47726.68,
+    "weekly_model_profit_JPY": 11186.06662749272,
+    "model_margin": 0.011908749064470089,
+    "zero_sales_ad_records": [
+      {
+        "ASIN": "B0H9S17TKT",
+        "SP_JPY": 4160.99,
+        "weekly_profit_JPY": -4160.99
+      }
+    ],
+    "formula_errors": 0,
+    "circular_reference_groups": 0,
+    "source_data_and_clearance_baseline": "unchanged",
+    "new_or_affected_formulas_recalculated": 2433,
+    "unrelated_formula_cache_preserved": 1366,
+    "profit_rows": 31,
+    "mode": "Japanese source cost model, not actual settlement profit"
+  },
+  "boundary_tests": {
+    "zero_sales_SP500": "weekly profit -500; margins blank; ad flag shown",
+    "positive_sales_SP_plus1": "weekly profit drops by exactly1",
+    "one_source_FBA_missing": "entire ASIN FBA average blocked; full profit blank; known SP retained",
+    "zero_units_revenue100": "flagged; full profit blank",
+    "SP_missing": "flagged; not silently replaced by0",
+    "test_values_in_production": false
+  }
+}
