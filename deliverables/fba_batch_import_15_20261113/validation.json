@@ -1,0 +1,20 @@
+{
+  "plan_rows": 9,
+  "original_units": 700,
+  "adjusted_all_units": 694,
+  "adjusted_all_cases": 361,
+  "ready_rows": 8,
+  "ready_units": 644,
+  "ready_cases": 311,
+  "pending_SKUs": [
+    "805156"
+  ],
+  "header_row1_sha256": "d2dd22d176e9f5e15b8cfc632e15a3f0689598d50d9e05aad07329f905e5f1af",
+  "all_nonworksheet_zip_entries_byte_identical": true,
+  "row1_byte_identical": true,
+  "only_added_data_rows_and_dimension_change": true,
+  "dropdown_preserved": true,
+  "packaging": "原厂包装",
+  "warehouse": "NT04-M",
+  "other_columns_unchanged_empty": true
+}
